@@ -1,0 +1,28 @@
+ 간단 웹 app 개발 순서
+ 1. 스프링 프로젝트 생성
+ 2. 스프릉 부트로 웹 서버 실행
+ 3. 회원 도메인 개발
+ 4. 웹 MVC 개발
+ 5. DB 연동 - JDBC, JPA, 스프링 데이터 JPA
+ 6. 테스트 케이스 작성
+
+******************* 실무 위주 ***********************
+
+이전에는 maven project
+현제는 gradle project
+
+spring initializer 에서 프로젝트 생성 편리성
+
+** library 사용 **
+spring boot를 사용하면 spring core까지의 대부분의 라이브러리가 자동으로 사용가능해진다.
+
+** junit **
+핵심 테스트 라이브러리
+
+** Welcome Page 기능 제공 **
+기본적으로 index.html 파일을 찾는다.
+
+** Thymeleaf **
+템플릿 엔진
+
+
