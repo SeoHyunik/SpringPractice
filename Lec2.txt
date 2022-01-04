@@ -1,0 +1,4 @@
+** MVC **
+웹 브라우저에서 컨트롤러에 get mapping 되어있는 주소를 넣어 접속
+만약 컨트롤러에서 reqParam 값을 받는다면 쿼리스트링으로 주소 뒤에 넣어주어야 함.
+thymeleaf에 의해 return되는 html명이 화면에 표현된다.
